@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "GIPTV (Package)", "GIPTV\GIPTV (Package)\GIPTV (Package).wapproj", "{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIPTV", "GIPTV\GIPTV\GIPTV.csproj", "{A6CE34B8-DF68-4F7F-8427-65FF907053FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6106AFD2-74B2-43BF-BCA8-0FFEBC8BE725}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Debug|ARM64.Build.0 = Debug|ARM64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Debug|x64.ActiveCfg = Debug|x64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Debug|x64.Build.0 = Debug|x64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Debug|x64.Deploy.0 = Debug|x64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Debug|x86.ActiveCfg = Debug|x86
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Debug|x86.Build.0 = Debug|x86
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Debug|x86.Deploy.0 = Debug|x86
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Release|ARM64.ActiveCfg = Release|ARM64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Release|ARM64.Build.0 = Release|ARM64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Release|ARM64.Deploy.0 = Release|ARM64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Release|x64.ActiveCfg = Release|x64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Release|x64.Build.0 = Release|x64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Release|x64.Deploy.0 = Release|x64
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Release|x86.ActiveCfg = Release|x86
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Release|x86.Build.0 = Release|x86
+		{2E7D2AFB-DC4F-424C-8895-4C842FBC8F69}.Release|x86.Deploy.0 = Release|x86
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Debug|ARM64.Build.0 = Debug|ARM64
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Debug|x64.ActiveCfg = Debug|x64
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Debug|x64.Build.0 = Debug|x64
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Debug|x86.ActiveCfg = Debug|x86
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Debug|x86.Build.0 = Debug|x86
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Release|ARM64.ActiveCfg = Release|ARM64
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Release|ARM64.Build.0 = Release|ARM64
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Release|x64.ActiveCfg = Release|x64
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Release|x64.Build.0 = Release|x64
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Release|x86.ActiveCfg = Release|x86
+		{A6CE34B8-DF68-4F7F-8427-65FF907053FD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE3B3EBF-B4DA-442C-A2DF-A0D1AE2792C5}
+	EndGlobalSection
+EndGlobal
